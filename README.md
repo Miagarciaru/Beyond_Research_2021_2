@@ -4,7 +4,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Miagarciaru/Beyond_Research_2021_2/main)
 
 ## Introduction:
-This repository contains a set of tools for analysis of high energy physics and particle physics. This project was done during the semester 2021-2 at Universidad Nacional de Colombia in a program called "Beyond Research". This program allows students to work with international universities and research centers, having the support of professionals in the field of research over the internship. In this case, we mostly worked on tools on jupyter notebooks that implement analysis on particle physics using the Run 2 data from [ATLAS Open-Data](http://opendata.atlas.cern/release/2020/documentation/) of Run 2 (13 TeV Data). 
+This repository contains a set of tools for analysis of high energy physics and particle physics. This project was done during the semester 2021-2 at Universidad Nacional de Colombia in a program called "Beyond Research". This program allows students to work with international universities and research centers, having the support of professionals in the field of research over the internship. In this case, we mostly worked on tools on jupyter notebooks that implement analysis on particle physics using the Run 2 data from [ATLAS Open-Data](http://opendata.atlas.cern/release/2020/documentation/) (13 TeV Data). 
 
 Here, you can find two main folders in which you will be able to see some analysis written in python or c++ languages. All of these notebooks contains a brief description of the physics behind the processes in SM (Standard Model) or BYS (Beyond Standar Model), as well as a description of some computational tools implemented along the analysis.
 
@@ -19,6 +19,7 @@ These notebooks make use of the [C++ language](http://www.cplusplus.com/doc/tuto
 ### notebooks-python folder:
 
 In this folder, which is available in [Github link notebooks-python](https://github.com/Miagarciaru/Beyond_Research_2021_2/tree/main/notebooks-python), you will see at least three notebooks written in [python language](https://docs.python.org/3/tutorial/). However, all of them use alternative tools to ROOT framework, some of them are for example uproot, pandas, numpy, scipy, matplotlib and time libraries. All of them have a brief description about the processes decays and a description of some computational tools used too. 
+
 
 
 
