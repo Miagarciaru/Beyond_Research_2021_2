@@ -1,4 +1,4 @@
-# Beyond Research 2021-2: Development of tools for physics analyisis with open data from the ATLAS experiment in a multi-cloud environment.
+# Beyond Research 2021-2: Development of tools for physics analysis with open data from the ATLAS experiment in a multi-cloud environment.
 
 ## To execute in MyBinder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Miagarciaru/Beyond_Research_2021_2/main)
